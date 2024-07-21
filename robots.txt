@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sulbygon.github.io/sitemap
+Sitemap: https://sulbygon.github.io/app/sitemap
+Sitemap: https://sulbygon.github.io/assets/sitemap
+Sitemap: https://sulbygon.github.io/css/sitemap
+Sitemap: https://sulbygon.github.io/includes/sitemap
+Sitemap: https://sulbygon.github.io/item/sitemap
+Sitemap: https://sulbygon.github.io/src/sitemap
